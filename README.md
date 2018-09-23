@@ -1,6 +1,6 @@
 # news
 
-> a simple news reader
+> an incredibly simple, customised news website, built for myself. It uses News API as the core, and Vue to deliver the content. It was built for the purposes of my article, which can be found here - 
 
 ## Build Setup
 
