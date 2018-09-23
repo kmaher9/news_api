@@ -1,6 +1,6 @@
 # news
 
-> an incredibly simple, customised news website, built for myself. It uses News API as the core, and Vue to deliver the content. It was built for the purposes of my article, which can be found here - 
+> an incredibly simple, customised news website, built for myself. It uses News API as the core, and Vue to deliver the content. It was built for the purposes of my article, which can be found here - https://medium.com/@kieranmaher13/why-and-how-i-built-my-own-news-website-7e025b8e20e
 
 ### UI Preview
 ![ui](https://github.com/fauliath/news_api/blob/master/screenshot.PNG)
