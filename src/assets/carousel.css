@@ -1,0 +1,37 @@
+/* Carousel 100% Fullscreen */
+html, body {
+height:100%;
+margin:0;
+padding:0;
+}
+.carousel, .item, .active {
+height:100%;
+}
+.carousel-inner {
+height:100%;
+}
+.carousel {
+margin-bottom: 60px;
+}
+.carousel-caption {
+z-index: 10;
+}
+.carousel .item {
+background-color: #777;
+}
+.carousel .carousel-inner .bg {
+background-repeat:no-repeat;
+background-size:cover;
+}
+.carousel .carousel-inner .bg1 {
+background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/spiderweb.jpg');
+background-position: center top;
+}
+.carousel .carousel-inner .bg2 {
+background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/hearthand.jpg');
+background-position: center center;
+}
+.carousel .carousel-inner .bg3 {
+background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg');
+background-position: center bottom;
+}
